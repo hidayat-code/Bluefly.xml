@@ -1,0 +1,18 @@
+<div id="Theme-details">
+<div id="store-style">
+<a class="storebutton but1" href="https://stressthinking.blogspot.com/" rel="nofollow noopener" target="_blank">Live Preview</a><br />
+<div class="rio-ss idb">
+See it live with all the features that exist, both on the homepage and the page posts.</div>
+</div>
+<div id="store-style">
+<a class="storebutton but2" href="https://stressthinking.blogspot.com/" target="_blank">$7.69 - Buy Now</a><br />
+<div class="rio-ss">
+<span class="storelist">Support Template Update</span><br />
+<span class="storelist">Remove Footer Credits</span><br />
+<span class="storelist">For Unlimited Domains</span><br />
+<span class="storelist">No Encrypted Scripts</span><br />
+<span class="storelist">And Many More...</span></div>
+</div>
+</div>
+<div class="clear">
+</div>
